@@ -1,6 +1,6 @@
 # Wavelength
 
-For everyone who is in need of a friend, or just wants to add some spice in their life by meeting someone new, ~Wavelength~ is a friendship matching app that unveils your true personality through a conversational environment to find others who will just *click* with you on a deeper level. Based off the YC startup "Dating Ring" (Winter 2014), ~Wavelength~ uses artificial intelligence to analyze how humans think and interact in order to determine their next best friend.
+For everyone who is in need of a friend, or just wants to add some spice in their life by meeting someone new, \~Wavelength\~ is a friendship matching app that unveils your true personality through a conversational environment to find others who will just *click* with you on a deeper level. Based off the YC startup "Dating Ring" (Winter 2014), \~Wavelength\~ uses artificial intelligence to analyze how humans think and interact in order to determine their next best friend.
 
 **Built by:** Kaitlyn Chiu, Ritali Jain, Arnav Dixit
 
