@@ -1,0 +1,10 @@
+fastapi==0.115.0
+uvicorn[standard]==0.30.6
+httpx==0.27.2
+python-dotenv==1.0.1
+pydantic>=2.8.2
+elevenlabs>=1.7.0
+numpy>=2.2.6
+python-multipart==0.0.26
+gunicorn==22.0.0
+google-generativeai>=0.8.0

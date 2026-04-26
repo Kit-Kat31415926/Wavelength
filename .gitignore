@@ -1,0 +1,8 @@
+node_modules
+venv
+.env
+backend/.env
+backend/.env.example
+__pycache__
+*.pyc
+*.db
