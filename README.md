@@ -6,6 +6,8 @@ For everyone who is in need of a friend, or just wants to add some spice in thei
 
 **Built for:** HackTech 2026
 
+[https://wwwavelength.tech/](https://wwwavelength.tech/)
+
 ---
 
 ## Tech Stack
